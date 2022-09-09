@@ -6,4 +6,4 @@ eureka:
     hostname: localhost
 
 myval:
-  name: PrudvitejaMessage....Iam form the GITHub
+  name: This is After changing the message
